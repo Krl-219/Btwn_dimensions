@@ -1,0 +1,7 @@
+and **Delta/Triangle sanding pad (OSC004**
+
+|                                   |                                                                                                                                                                                                   |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bosch GOP 18V‑55 Starlock Max** | – Strong brand presence in DIY stores– Competitive price (~ 680 PLN)– Brushless motor, low‑vibration design, quick‑change StarlockPlus blades–   Wide availability on Allegro and local retailers |
+| **2**                             | **Makita XMT04ZB 18V LXT Starlock Max**                                                                                                                                                           |
+|                                   |                                                                                                                                                                                                   |

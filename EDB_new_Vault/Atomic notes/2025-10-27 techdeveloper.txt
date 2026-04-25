@@ -1,0 +1,11 @@
+---
+title: #tech/developer
+date: [[2025-10-27]]
+---
+#tech/developer
+
+Ways to use AutoHotKey
+
+Starting Shortcuts with Siri
+
+Learn Javascript to make Proton Mail do things like “Snooze until…”
