@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "3335d63166d22607",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8db6f46ad3eaf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9eabf773ef4466e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My templates/Concept Note Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concept Note Template"
+            }
+          },
+          {
+            "id": "f465a3ca78400ec0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic notes/ICC  chooses German provider openDesk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ICC  chooses German provider openDesk"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cc98e76e9fbb67c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a01fb8596ba254d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e87a5ab9cdd0e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ebba569a9391cd12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#BRussell",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed764dbf2eb4b490",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37125d95201fc272",
+    "type": "split",
+    "children": [
+      {
+        "id": "c180fda9d52366c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d57308862343a05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My templates/Template, Kindle_Book.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template, Kindle_Book"
+            }
+          },
+          {
+            "id": "1c282920da74052f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature Notes/2025-10-19 Dawkins Pace of evolution.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-10-19 Dawkins Pace of evolution"
+            }
+          },
+          {
+            "id": "0ef9ec9440fa3e3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b39bd443eac48ea3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My templates/Template, Kindle_Book.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Template, Kindle_Book"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f465a3ca78400ec0",
+  "lastOpenFiles": [
+    "EDB_new_Vault/Parcial 1/Cooking/Recipe for Golden Syrup.md.md",
+    "EDB_new_Vault/Parcial 1/Cooking",
+    "EDB_new_Vault/Final/Cooking/Lecture 2026-01-06 - Golden Syrup recipe.md.md",
+    "EDB_new_Vault/Final/Cooking",
+    "EDB_new_Vault/Final",
+    "My templates/Concept Note Template.md",
+    "My templates/Assign Tema to Current Note.md",
+    "My templates/Lecture Note.md",
+    "My templates/General Note.md",
+    "EDB_new_Vault/Parcial 1/Modern classical composers/Gyorgy Ligeti.md.md",
+    "EDB_new_Vault/Parcial 1/Modern classical composers",
+    "EDB_new_Vault/Parcial 1",
+    "EDB_new_Vault",
+    "_templater_scripts/universityConfig.js.sb-e1b1c1ae-GGB2Ys",
+    "_templater_scripts/getUniversityContext.js",
+    "_templater_scripts/universityNoteUtils.js",
+    "_templater_scripts/universityConfig.js",
+    "My templates/Subject Hub.md",
+    "_templates/Subject Hub.md",
+    "_templates/General Note.md",
+    "_templates/Concept Note Template.md",
+    "_templates/Lecture Note.md",
+    "_templates/Assign Tema to Current Note.md",
+    "Article_superbly-written piece of how the Master of Puppets album came to be.md",
+    "Zinsser-On Writing Well, 30th Anniversary Edition.md",
+    "Werner-Effortless Mastery.md",
+    "Read-The Imagination Muscle.md",
+    "Limited-Financial Times - UK Edition.md",
+    "Mazzucato-The Value of Everything.md",
+    "Perry-The Book You Wish Your Parents Had Read.md",
+    "Larkin-Philip Larkin Poems.md",
+    "Literature Notes/IP_Dr Carl Benedikt Frey.md",
+    "King-Night of Tiny Suns.md",
+    "Whitwam-The Cavalier King Charles Spaniel Handbook.md",
+    "Fryer-How to Cope with Almost Anything with Hypnotherapy.md"
+  ]
+}

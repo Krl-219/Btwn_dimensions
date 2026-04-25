@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "362fc9e56798a50d",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e6fd08474d8436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe6ae5302cd5f41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dedf71472f3b8565",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8c1c0214f01f382e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2d1ffa0cc69aab1e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3f65bbf7ac4f8905",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "17b25f0dbcdf59ce",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4c2f001ba1a04e9d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b8fdca464584fe2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Lower body pain.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "4ed2bbc61ee30cad",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ace75e38454c4648",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0fe6ae5302cd5f41",
+  "lastOpenFiles": [
+    "0_Inbox/Language.md",
+    "Untitled.md",
+    "Linux_editors.md",
+    "note_Linux RHEP v SUSE v Ubuntu.md",
+    "Inpost international.md",
+    "article_FT.com.md",
+    "How Linux is used in DevOps.md",
+    "Digital signature.md",
+    "music memory technique.md",
+    "podcast_EFF.md",
+    "AI writing tropes to avoid.md",
+    "Lower body pain.md",
+    "Unknown.txt",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Templates/{{title}}Template 1.md",
+    "l.md",
+    "User_scripts",
+    "Templates",
+    "templates.md",
+    "Polski/żeby cie się nie kusziło.md",
+    "#zdrowa.md",
+    "2026-02-17 writing.txt",
+    "2026-02-16 Untitled.txt",
+    "2026-02-14 As an inventor, I know that error is.txt",
+    "2026-02-04 Epstein's network is an MRI of the establishment.txt",
+    "2026-02-04 a kind of diabolical vindication.txt",
+    "2026-02-02 Dogs are the gatekeepers to Polish hearts..txt",
+    "The New right_Anatomy of a global political revolution.md",
+    "2026-02-01 climatechange.txt",
+    "note _Obsidian tip.md",
+    "music_Monteverdi.md",
+    "DIY/Parts and tools to buy.md",
+    "Book_ref Paris_Capital of Modernity.md",
+    "article_Guardian_Doctorow_tariffs and US tech.md",
+    "article_superbly-written piece of how the Master of Puppets album came to be.md"
+  ]
+}
