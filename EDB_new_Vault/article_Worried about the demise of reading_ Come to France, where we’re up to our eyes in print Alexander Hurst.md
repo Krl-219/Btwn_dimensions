@@ -1,0 +1,1 @@
+[Worried about the demise of reading? Come to France, where we’re up to our eyes in print | Alexander Hurst](https://www.theguardian.com/commentisfree/2026/mar/04/death-print-demise-reading-france-books-sales-publishing?CMP=Share_iOSApp_Other)
