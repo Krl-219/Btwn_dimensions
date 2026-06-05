@@ -1,0 +1,40 @@
+---
+title: #publicholidays
+date: 2026-01-03 10:31:28 pm
+---
+#publicholidays
+#niedzielabezhandlowa
+#personaladmin
+
+Date,Holiday Name,Day
+January 1,New Year’s Day (Nowy Rok),
+
+Thursday
+January 6,Epiphany (Święto Trzech Króli),
+
+Tuesday
+April 5,Easter Sunday (Wielkanoc), Sunday
+
+April 6, Easter Monday (Poniedziałek Wielkanocny),
+Monday
+
+May 1,Labour Day (Święto Pracy),Friday
+
+May 3,National Holiday of May 3rd (Święto Konstytucji 3 Maja),Sunday
+
+May 24,Pentecost (Zielone Świątki),Sunday
+
+June 4,Corpus Christi (Boże Ciało),Thursday
+
+August 15,Assumption of the Blessed Virgin Mary (Wniebowzięcie Najświętszej Maryi Panny),
+Saturday
+
+November 1,All Saints’ Day (Wszystkich Świętych),Sunday
+
+November 11,National Independence Day (Narodowe Święto Niepodległości),Wednesday
+
+December 24,Christmas Eve (Wigilia),Thursday
+
+December 25,Christmas Day (Boże Narodzenie – pierwszy dzień),Friday
+
+December 26,Second Day of Christmas (Boże Narodzenie – drugi dzień),Saturday

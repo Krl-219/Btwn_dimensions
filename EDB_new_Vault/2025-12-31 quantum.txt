@@ -1,0 +1,9 @@
+---
+title: #quantum
+date: 2025-12-31 3:38:37 am
+---
+#quantum
+Carlo Ravelli, computer scientist
+
+Holding individual atoms
+Already necessary to use Quantum-ready encryption.

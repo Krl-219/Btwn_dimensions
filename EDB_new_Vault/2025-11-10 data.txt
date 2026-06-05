@@ -1,0 +1,35 @@
+---
+title: #data
+date: 2025-11-10 6:58:24 am
+---
+#data
+#programming
+#python
+#JSON
+
+JavaScript Object Notation
+
+JSON is most often used as a bridge between applications—especially when data needs to move across a network or be stored in a human‑readable file. Here’s a typical end‑to‑end flow:
+
+Create native data – In your code you build objects, dictionaries, arrays, etc., using the language’s built‑in types (e.g., a dict in Python, a Map in Java, an object literal in JavaScript).
+Serialize (encode) to JSON – You pass that native structure to a JSON library, which converts it into a JSON string.
+Python: json.dumps(data)
+JavaScript: JSON.stringify(data)
+Java: new Gson().toJson(data)
+Transmit or store – The resulting string can be:
+Sent over HTTP/HTTPS as the body of a REST API request or response.
+Written to a file (*.json) for configuration, logging, or data persistence.
+Placed in a message queue (e.g., RabbitMQ, Kafka) for asynchronous processing.
+Receive / read – The consumer reads the JSON string from the network, file, or queue.
+Deserialize (decode) back to native data – The receiving side uses the same (or a compatible) JSON library to turn the string back into language‑specific objects.
+Python: json.loads(json_str)
+JavaScript: JSON.parse(json_str)
+Java: new Gson().fromJson(jsonStr, MyClass.class)
+Process the data – Once deserialized, the program can work with the data just like any other in‑memory structure: validate it, transform it, store it in a database, etc.
+Optional validation – Many pipelines include schema validation (e.g., JSON Schema) before or after deserialization to ensure the payload conforms to expected shapes and types.
+Key points to remember
+
+Text‑based: JSON is plain UTF‑8 text, so it’s easy to inspect, version‑control, and debug.
+Language‑agnostic: Almost every modern programming language ships with a JSON parser/serializer, making interoperability straightforward.
+Stateless: Because the format carries all necessary information, each JSON message can be processed independently, which fits well with RESTful APIs and microservices.
+So, the typical pathway is: native data → serialize to JSON → transmit/store → deserialize back to native data → process. This pattern underpins most web APIs, configuration systems, and data‑exchange workflows today.

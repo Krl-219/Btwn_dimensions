@@ -1,0 +1,30 @@
+---
+title: #economics
+date: 2025-11-09 10:00:05 pm
+---
+#economics
+
+The marginal elasticity of substitution (MES) measures how easily firms can replace one factor of production (e.g., labor) with another (e.g., capital) when the relative price of those factors changes. 
+
+Formally, it’s the percentage change in the ratio of capital‑to‑labor used (K/L) divided by the percentage change in the ratio of their marginal products (or wages to rental rates).
+
+What “maxing” means here
+When people talk about the “maximum” MES in the Piketty debate, they’re usually asking:
+
+What is the highest plausible value for the elasticity?
+How does that upper bound affect Piketty’s r > g argument?
+Upper bound in theory
+In standard neoclassical production theory, the MES can theoretically be unbounded—it can grow arbitrarily large if technology makes capital a perfect substitute for labor. In practice, however, empirical studies find that the elasticity tends to lie between 0 and a few units:
+
+Range	Interpretation
+< 1	Capital and labor are complements; it’s hard to replace workers with machines.
+≈ 1	Substitution is unit‑elastic; a 1 % rise in the relative price of labor leads to roughly a 1 % shift toward capital.
+> 1	Capital is relatively easy to substitute for labor; firms can switch more aggressively toward machines.
+Empirical estimates for advanced economies typically fall around 0.5–1.5, rarely exceeding 2–3. Values much higher than that would imply that modest changes in wages or capital costs could trigger massive reallocation of inputs, something we don’t observe in real‑world data.
+
+Why the “max” matters for Piketty’s thesis
+Piketty’s core claim (r > g) rests on the idea that capital’s share of income keeps rising because capital yields a higher return than overall economic growth. If the MES were very high (≫ 1), it would mean that firms could readily substitute labor with capital whenever capital becomes relatively cheap, reinforcing the r > g dynamic. Conversely:
+
+Low MES (< 1) weakens the mechanism: even if capital is cheap, firms can’t replace labor easily, so the share of capital in total income grows more slowly.
+Empirical critiques (e.g., Warshawsky, Summers) argue that measured MES values are not high enough to sustain the strong, persistent r > g trend that Piketty predicts.
+Thus, the “maximum” practical MES—often cited as around 2–3 in the literature—sets a ceiling on how strongly capital can dominate labor. Most recent econometric work suggests the true elasticity sits below that ceiling, which is why many economists view Piketty’s r > g narrative as over‑optimistic about the substitutability of capital for labor.

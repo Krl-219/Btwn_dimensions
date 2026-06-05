@@ -1,0 +1,16 @@
+---
+title: 
+date: 2025-12-14 10:39:41 pm
+---
+
+#GenAI
+
+Pontis Warnestal, LinkedIn
+
+"So I just read a post where someone claimed that you can "ask AI why it came to this particular conclusion". ("AI" in this case, of course, meaning an LLM service.) As if an LLM could somehow reason about its own output! And that this would be good in a learning setting.
+
+Just no. LLMs don't "explain their reasoning". At most, they simulate *a* statistical aggregate of reasoning. An LLM does *not* inspect its internal state, trace a causal chain of beliefs, ground answers in a symbolic knowledge base, or analyze the process that produced its output.
+
+What it does is generate the next most plausible token sequence conditioned on the prompt, the conversation history, and the statistical structure of language it has modeled.
+
+That this behavior is now wrapped in the language of "study buddies" and deployed in classrooms is genuinely alarming: hallucinations are a *visible* failure mode, but these fabricated justifications are worse. They *look* like reasoning, train users to trust confidence over correctness, and quietly normalize explanations that have no epistemic anchor at all."

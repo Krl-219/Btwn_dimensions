@@ -1,0 +1,17 @@
+---
+title: Role       
+date: 2025-12-14 10:25:24 pm
+---
+Role               | Single Line Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------------------|
+| **Publisher/CEO**  | Oversees the entire organization, sets strategic direction, and ensures financial viability. |
+| **Editor-in-Chief**| Leads editorial vision, content quality, and overall publication standards.             |
+| **Managing Editor**| Manages daily operations, workflow, and coordinates between departments.               |
+| **Section Editors**| Heads specific sections (e.g., news, features, sports), assigns stories, and edits content. |
+| **Senior Editors** | Provides high-level editing, mentors writers, and ensures content aligns with editorial standards. |
+| **Sub-Editors**    | Focuses on copy editing, fact-checking, and preparing content for publication.          |
+| **Writers**        | Researches and creates original content, articles, or reports.                          |
+| **Proofreaders**   | Reviews final drafts for grammar, spelling, punctuation, and consistency.               |
+| **Production**     | Handles layout, design, and technical aspects of publishing (print/digital).            |
+| **Junior Editors** | Assists with editing, fact-checking, and administrative tasks.                          |
+| **Interns**        | Supports various departments, gains experience, and assists with research or writing.  |
